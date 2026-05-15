@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/javascript target="_blank">Reversed sequence</a></h2><h3>8 kyu</h3><p>Build a function that returns an array of integers from n to 1 where <code>n&gt;0</code>.</p><p>Example : <code>n=5</code> --&gt; <code>[5,4,3,2,1]</code></p>
