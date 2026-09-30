@@ -12,9 +12,7 @@ export function parse(data: string): number[] {
     for (const char of data) {
         const action = commands.get(char);
         if (!action) continue;
-​
         action();
-        console.log(char, value);
     }
 ​
     return output_array;
